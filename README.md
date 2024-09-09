@@ -22,4 +22,4 @@
 <a href="https://www.instagram.com/2songsungmin/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/soeusueumineu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soeusueumineu)](https://github.com/soeusueumineu/github-readme-stats)
