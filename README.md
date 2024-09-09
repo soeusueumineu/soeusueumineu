@@ -13,4 +13,6 @@
 <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 
 ## 📱Contact
-<img         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a> <a href="mailto:quf8093@gmail.com">
+ <a href="https://www.instagram.com/2songsungmin/"><img src="<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>"/></a>
+
+
