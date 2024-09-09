@@ -17,3 +17,7 @@
 
 ## 📱Contact
 <a href="https://www.instagram.com/2songsungmin/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+## Notion
+<a href="https://soeusueumineu.notion.site/SONG-SUNGMIN-S-Portfolio-b835e0c1503843e78d19c9fea6c99e72?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
