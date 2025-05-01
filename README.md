@@ -19,6 +19,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 ## Notion  
-<a href="https://soeusueumineu.notion.site/SONG-SUNGMIN-S-Portfolio-b835e0c1503843e78d19c9fea6c99e72?pvs=4">
+<a href="https://soeusueumineu.notion.site/0ffacbfc9e4580ce85f6d55f6b6e919e?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
